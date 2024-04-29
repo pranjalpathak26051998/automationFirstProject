@@ -1,0 +1,14 @@
+{
+  "name": "welcome",
+  "version": "1.0.0",
+  "description": "Learning automation using Selenium day1 welcome page and click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranjal Pathak",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.19.0"
+  }
+}
